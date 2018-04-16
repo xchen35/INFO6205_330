@@ -3,12 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package GA;
+package GAKnapsack;
 
 /**
  *
  * @author xchen_000
  */
+// phenotype
 public class Population {
     private double crossRate;     // crossover rate
     private double mutationRate;   // mutation rate
@@ -25,9 +26,17 @@ public class Population {
         this.geneLength = geneLength;
         individuals = new Individual[individualNum];
         for(int i=0; i<individualNum;i++){
-            Individual single = new Individual(geneLength);
-            individuals[i] = single;
+            Individual person = new Individual(geneLength);
+            individuals[i] = person;
         }
+    }
+
+    public Individual[] getIndividuals() {
+        return individuals;
+    }
+
+    public void setIndividuals(Individual[] individuals) {
+        this.individuals = individuals;
     }
 
     public double getCrossRate() {
@@ -85,4 +94,53 @@ public class Population {
 
         return maxFit;
     } 
+     
+    // using individual fitness divided by all fitness to find the greater total value of a gene which is more likely to be true
+    public double[] getSelectRates() {
+        double[] selection = new double[individualNum];
+        double sumFitness = 0;
+        
+        for (Individual i : individuals) {
+            sumFitness += i.getFitness();
+        }
+
+        for (int i = 0; i < getIndividualNum(); i++) {
+            selection[i] = individuals[i].getFitness() / sumFitness;
+        }
+
+        return selection;
+    }
+    
+    // Insertion sort for Individuals
+    public Individual[] sort(){
+        Individual[] tempList = new Individual[individualNum];
+        for(int i = 0; i< individualNum; i++){
+            tempList[i] = individuals[i];
+        }
+        Individual temp;
+        for(int i = 1; i< individualNum; i++){
+            for(int j = i; j>0; j--){
+                if(tempList[j].getFitness() < tempList[j-1].getFitness()){
+                    temp = tempList[j];
+                    tempList[j] = tempList[j-1];
+                    tempList[j-1] = temp;                   
+                }
+            }
+        }
+//        for(int i=0; i<tempList.length; i++){
+//            System.out.println(tempList[i].getFitness());
+//        }
+        return tempList;
+    }
+    
+    // get total fitness in double
+     public double getTotalFitness() {
+        double totalFit = 0;
+
+        for (Individual i : individuals) {
+            totalFit+= i.getFitness();
+        }
+
+        return totalFit;
+    }
 }

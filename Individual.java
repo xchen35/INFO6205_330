@@ -3,12 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package GA;
+package GAKnapsack;
 
 /**
  *
  * @author xchen_000
  */
+// genotype
 public class Individual{
     private int geneLength;     // gene length
     private int[] gene;         // gene in int array
@@ -53,7 +54,7 @@ public class Individual{
     public int[] clone(){
         int[] clone = new int[geneLength];
         for(int i = 0; i < getGeneLength(); i++){
-            clone[i] = this.gene[i];
+            clone[i] = gene[i];
         }
         return clone;
     }
@@ -66,7 +67,16 @@ public class Individual{
     // get fitness for the individual
     public double getFitness() {
         double fitness = 0;
-        fitness = Knapsack.calFitness(this.gene);
+        fitness = Knapsack.calFitness(gene);
         return fitness;
+    }
+    
+    // get total weight of fitness individual
+    public double getWeight(){
+        double kweight = 0;
+
+        kweight = Knapsack.getWeight(gene);
+
+        return kweight;
     }
 }
