@@ -1,0 +1,3182 @@
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value0: 34.98730994868061, 72.64977392702477
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value1: 10.566746330507847, 77.19727935076432
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value2: 27.84513710639057, 43.51033806407042
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value3: 82.23094068271408, 34.847474362938634
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value4: 23.693729077354487, 17.19061134334169
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value5: 0.6695357537296998, 2.7457642843069063
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value6: 42.35887233006005, 31.753742926405703
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value7: 34.01479402522537, 44.68612820935643
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value8: 15.934228339057944, 45.50608686838442
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value9: 67.06481615299312, 37.14416094682803
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value10: 88.4413546662136, 24.727146814928048
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value11: 45.40256943047122, 40.266476237322365
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value12: 46.35493755612296, 87.13735275360008
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value13: 60.70269287689239, 34.24908458821133
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value14: 10.721345566452312, 91.62176110222136
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value15: 8.198357432032621, 62.25769046366866
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value16: 63.49322720627596, 13.653733696344228
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value17: 34.487490327424865, 27.781134586258773
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value18: 38.22231918112834, 35.41327171992431
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value19: 46.68972941538902, 91.67252207185513
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value20: 78.39725879997792, 9.770604017819561
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value21: 72.42250838859692, 2.120812782874293
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value22: 55.48262589717648, 28.106292272084733
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value23: 44.14662482926603, 69.4089541674063
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value24: 43.110051770899375, 33.364972701556795
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value25: 31.138830263419447, 66.55293146775526
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value26: 63.89172860556358, 71.79060872283793
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value27: 57.68083414749287, 96.77937466955339
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value28: 60.97116673964131, 69.46689612941822
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value29: 27.01127422195565, 19.287619763833607
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value30: 97.69562515577641, 53.087290978170756
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value31: 17.16920603308363, 65.85546470632192
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value32: 55.68913667578088, 8.304840214749355
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value33: 27.064626839096817, 12.586080754604968
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value34: 84.12457678776255, 83.56284540172544
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value35: 28.94370454855377, 93.45685371157238
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value36: 51.137788286662456, 2.4831378466915632
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value37: 26.873294183154528, 55.31920438229726
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value38: 62.09628207577707, 43.68950072074023
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value39: 29.951430708082714, 57.61171200431872
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value40: 38.82955461063259, 83.36963726824894
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value41: 23.657483947028656, 14.28716237998514
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value42: 98.94762735042035, 72.92975144319088
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value43: 63.087727510011185, 60.317393888650585
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value44: 35.018918907965045, 41.771688047180156
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value45: 17.779037846704437, 0.6281282645626884
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value46: 69.64810172431382, 73.52331010181676
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value47: 69.40554458510351, 65.42924319499778
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value48: 54.38911243385832, 2.978575908528136
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value49: 0.8400578262185099, 52.64420916560365
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value50: 87.94805015600818, 20.554573819644194
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value51: 17.90409740750244, 85.50571229902386
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value52: 52.27518308995197, 51.248543402103266
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value53: 13.587434217976046, 51.37277051498263
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value54: 3.914850442396889, 95.87871553449739
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value55: 18.600038182000223, 16.43789834324847
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value56: 12.376567224498736, 83.81851437925562
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value57: 81.82640524145596, 30.2312157853705
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value58: 7.310157026849029, 88.48457317739316
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value59: 89.58420539204988, 43.691615660189
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value60: 81.91229722385843, 99.51464658626489
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value61: 63.54628653656671, 65.06340602776793
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value62: 1.2613504124563524, 28.872409144348545
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value63: 73.7670864206959, 68.99016996194015
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value64: 81.17195108841815, 52.04183854432218
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value65: 65.46146658707693, 55.91578661159642
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value66: 35.68027024755771, 50.02468727946572
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value67: 26.016148890757464, 31.265906356323814
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value68: 39.415478870778976, 23.030324709187045
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value69: 12.170820886486556, 36.871406662569115
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value70: 14.882419301709394, 92.54801197945484
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value71: 16.38811776697252, 20.708691539121993
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value72: 34.07504271669441, 94.91746496392636
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value73: 76.13865932821429, 75.26989785680257
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value74: 18.859712673974226, 96.56430883717582
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value75: 20.159368022539446, 9.73944618095034
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value76: 35.2119673886395, 28.742864672992695
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value77: 1.7003321053187026, 46.64157645970782
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value78: 2.659919963621027, 47.92941453115975
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value79: 90.35751959851888, 49.73684538997567
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value80: 82.181953658715, 76.93496189842908
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value81: 81.29561381703526, 96.6837911474769
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value82: 63.32593062446142, 71.35718592607118
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value83: 33.49739477277799, 7.3453218954866895
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value84: 44.461668587101336, 86.16718149861292
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value85: 67.13299330252093, 26.607602268606346
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value86: 88.847941804142, 88.02724021171746
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value87: 34.224444783507415, 39.19249504892753
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value88: 43.58983154515358, 70.36180388619691
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value89: 26.48801795635277, 63.182985863789895
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value90: 28.58173539746368, 80.25446659294701
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value91: 99.56875292487064, 28.844144641184155
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value92: 38.17593458626835, 58.919651890950064
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value93: 73.83876118658547, 99.81062500482193
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value94: 49.5861100874335, 30.7984429647265
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value95: 18.51277981940299, 34.824854867907376
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value96: 98.92970931809147, 50.25375020967896
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value97: 38.04160423822377, 19.948431851953686
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value98: 68.33267012084947, 29.390846675732185
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack test
+INFO: Auto Generate individual weight and value99: 57.57594839896508, 23.53247053846247
+Apr 15, 2018 11:05:04 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 1
+Apr 15, 2018 11:05:05 PM GAKnapsack.Knapsack run
+INFO: maxFit until 1: 3420.9859184211728
+Apr 15, 2018 11:05:05 PM GAKnapsack.Knapsack run
+INFO: maxFit weight until 1: 2958.94916347978
+Apr 15, 2018 11:05:05 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 2
+Apr 15, 2018 11:05:05 PM GAKnapsack.Knapsack run
+INFO: maxFit until 2: 3513.678551662429
+Apr 15, 2018 11:05:05 PM GAKnapsack.Knapsack run
+INFO: maxFit weight until 2: 2902.168384342324
+Apr 15, 2018 11:05:05 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 3
+Apr 15, 2018 11:05:06 PM GAKnapsack.Knapsack run
+INFO: maxFit until 3: 3652.007190850334
+Apr 15, 2018 11:05:06 PM GAKnapsack.Knapsack run
+INFO: maxFit weight until 3: 3039.7952021904407
+Apr 15, 2018 11:05:06 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 4
+Apr 15, 2018 11:05:06 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 5
+Apr 15, 2018 11:05:07 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 6
+Apr 15, 2018 11:05:07 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 7
+Apr 15, 2018 11:05:08 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 8
+Apr 15, 2018 11:05:08 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 9
+Apr 15, 2018 11:05:09 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 10
+Apr 15, 2018 11:05:09 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 11
+Apr 15, 2018 11:05:09 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 12
+Apr 15, 2018 11:05:10 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 13
+Apr 15, 2018 11:05:10 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 14
+Apr 15, 2018 11:05:11 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 15
+Apr 15, 2018 11:05:11 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 16
+Apr 15, 2018 11:05:12 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 17
+Apr 15, 2018 11:05:12 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 18
+Apr 15, 2018 11:05:13 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 19
+Apr 15, 2018 11:05:13 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 20
+Apr 15, 2018 11:05:14 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 21
+Apr 15, 2018 11:05:14 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 22
+Apr 15, 2018 11:05:15 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 23
+Apr 15, 2018 11:05:15 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 24
+Apr 15, 2018 11:05:16 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 25
+Apr 15, 2018 11:05:16 PM GAKnapsack.Knapsack run
+INFO: maxFit until 25: 3771.0421201401487
+Apr 15, 2018 11:05:16 PM GAKnapsack.Knapsack run
+INFO: maxFit weight until 25: 3040.0630064702477
+Apr 15, 2018 11:05:16 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 26
+Apr 15, 2018 11:05:17 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 27
+Apr 15, 2018 11:05:17 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 28
+Apr 15, 2018 11:05:18 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 29
+Apr 15, 2018 11:05:18 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 30
+Apr 15, 2018 11:05:18 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 31
+Apr 15, 2018 11:05:19 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 32
+Apr 15, 2018 11:05:19 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 33
+Apr 15, 2018 11:05:20 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 34
+Apr 15, 2018 11:05:20 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 35
+Apr 15, 2018 11:05:21 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 36
+Apr 15, 2018 11:05:21 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 37
+Apr 15, 2018 11:05:22 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 38
+Apr 15, 2018 11:05:22 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 39
+Apr 15, 2018 11:05:23 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 40
+Apr 15, 2018 11:05:23 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 41
+Apr 15, 2018 11:05:24 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 42
+Apr 15, 2018 11:05:24 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2555.235447275004
+Apr 15, 2018 11:05:24 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 43
+Apr 15, 2018 11:05:25 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 44
+Apr 15, 2018 11:05:25 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 45
+Apr 15, 2018 11:05:26 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 46
+Apr 15, 2018 11:05:26 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 47
+Apr 15, 2018 11:05:26 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 48
+Apr 15, 2018 11:05:27 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 49
+Apr 15, 2018 11:05:27 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 50
+Apr 15, 2018 11:05:27 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2072.0195371834766
+Apr 15, 2018 11:05:28 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 51
+Apr 15, 2018 11:05:28 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 52
+Apr 15, 2018 11:05:29 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 53
+Apr 15, 2018 11:05:29 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 54
+Apr 15, 2018 11:05:30 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 55
+Apr 15, 2018 11:05:30 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 56
+Apr 15, 2018 11:05:31 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 57
+Apr 15, 2018 11:05:31 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 58
+Apr 15, 2018 11:05:32 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 59
+Apr 15, 2018 11:05:32 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 60
+Apr 15, 2018 11:05:33 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 61
+Apr 15, 2018 11:05:33 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 62
+Apr 15, 2018 11:05:34 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 63
+Apr 15, 2018 11:05:34 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 64
+Apr 15, 2018 11:05:34 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 65
+Apr 15, 2018 11:05:35 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 66
+Apr 15, 2018 11:05:35 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 67
+Apr 15, 2018 11:05:36 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 68
+Apr 15, 2018 11:05:36 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 69
+Apr 15, 2018 11:05:37 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 70
+Apr 15, 2018 11:05:37 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 71
+Apr 15, 2018 11:05:38 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 72
+Apr 15, 2018 11:05:38 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 73
+Apr 15, 2018 11:05:39 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 74
+Apr 15, 2018 11:05:39 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 75
+Apr 15, 2018 11:05:40 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 76
+Apr 15, 2018 11:05:40 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 77
+Apr 15, 2018 11:05:41 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 78
+Apr 15, 2018 11:05:41 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 79
+Apr 15, 2018 11:05:42 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 80
+Apr 15, 2018 11:05:42 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2559.1341609628016
+Apr 15, 2018 11:05:42 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 81
+Apr 15, 2018 11:05:43 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 82
+Apr 15, 2018 11:05:43 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 83
+Apr 15, 2018 11:05:43 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 84
+Apr 15, 2018 11:05:44 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 85
+Apr 15, 2018 11:05:44 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 86
+Apr 15, 2018 11:05:45 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 87
+Apr 15, 2018 11:05:45 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 88
+Apr 15, 2018 11:05:46 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 89
+Apr 15, 2018 11:05:46 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 90
+Apr 15, 2018 11:05:47 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 91
+Apr 15, 2018 11:05:47 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 92
+Apr 15, 2018 11:05:48 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 93
+Apr 15, 2018 11:05:48 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 94
+Apr 15, 2018 11:05:49 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 95
+Apr 15, 2018 11:05:49 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 96
+Apr 15, 2018 11:05:50 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 97
+Apr 15, 2018 11:05:50 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 98
+Apr 15, 2018 11:05:51 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 99
+Apr 15, 2018 11:05:51 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 100
+Apr 15, 2018 11:05:51 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 101
+Apr 15, 2018 11:05:52 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 102
+Apr 15, 2018 11:05:52 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 103
+Apr 15, 2018 11:05:53 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 104
+Apr 15, 2018 11:05:53 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 105
+Apr 15, 2018 11:05:54 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 106
+Apr 15, 2018 11:05:54 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 107
+Apr 15, 2018 11:05:55 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 108
+Apr 15, 2018 11:05:55 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 109
+Apr 15, 2018 11:05:56 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 110
+Apr 15, 2018 11:05:56 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 1470.9053510046353
+Apr 15, 2018 11:05:56 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 111
+Apr 15, 2018 11:05:57 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 112
+Apr 15, 2018 11:05:57 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 113
+Apr 15, 2018 11:05:58 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 114
+Apr 15, 2018 11:05:58 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 115
+Apr 15, 2018 11:05:59 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 116
+Apr 15, 2018 11:05:59 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 117
+Apr 15, 2018 11:05:59 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 118
+Apr 15, 2018 11:06:00 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 119
+Apr 15, 2018 11:06:00 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 120
+Apr 15, 2018 11:06:01 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 121
+Apr 15, 2018 11:06:01 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 122
+Apr 15, 2018 11:06:02 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 123
+Apr 15, 2018 11:06:02 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 124
+Apr 15, 2018 11:06:03 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 125
+Apr 15, 2018 11:06:03 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2840.878790391863
+Apr 15, 2018 11:06:03 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 126
+Apr 15, 2018 11:06:04 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 127
+Apr 15, 2018 11:06:04 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 128
+Apr 15, 2018 11:06:05 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 129
+Apr 15, 2018 11:06:05 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 130
+Apr 15, 2018 11:06:05 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2195.1717423160326
+Apr 15, 2018 11:06:06 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 131
+Apr 15, 2018 11:06:06 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 132
+Apr 15, 2018 11:06:07 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 133
+Apr 15, 2018 11:06:07 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 134
+Apr 15, 2018 11:06:08 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 135
+Apr 15, 2018 11:06:08 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 136
+Apr 15, 2018 11:06:09 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 137
+Apr 15, 2018 11:06:09 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 138
+Apr 15, 2018 11:06:09 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 139
+Apr 15, 2018 11:06:10 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 140
+Apr 15, 2018 11:06:10 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 141
+Apr 15, 2018 11:06:11 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 142
+Apr 15, 2018 11:06:11 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 143
+Apr 15, 2018 11:06:12 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 144
+Apr 15, 2018 11:06:12 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 145
+Apr 15, 2018 11:06:13 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 146
+Apr 15, 2018 11:06:13 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 147
+Apr 15, 2018 11:06:14 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 148
+Apr 15, 2018 11:06:14 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 149
+Apr 15, 2018 11:06:14 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2158.082824106071
+Apr 15, 2018 11:06:15 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 150
+Apr 15, 2018 11:06:15 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 151
+Apr 15, 2018 11:06:16 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 152
+Apr 15, 2018 11:06:16 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 153
+Apr 15, 2018 11:06:17 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 154
+Apr 15, 2018 11:06:17 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 155
+Apr 15, 2018 11:06:18 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 156
+Apr 15, 2018 11:06:18 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 157
+Apr 15, 2018 11:06:19 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 158
+Apr 15, 2018 11:06:19 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 159
+Apr 15, 2018 11:06:19 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 160
+Apr 15, 2018 11:06:20 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 161
+Apr 15, 2018 11:06:20 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 162
+Apr 15, 2018 11:06:21 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 163
+Apr 15, 2018 11:06:21 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 164
+Apr 15, 2018 11:06:21 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2841.2251141264364
+Apr 15, 2018 11:06:22 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 165
+Apr 15, 2018 11:06:22 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 166
+Apr 15, 2018 11:06:23 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 167
+Apr 15, 2018 11:06:23 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2268.725633880457
+Apr 15, 2018 11:06:23 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 168
+Apr 15, 2018 11:06:24 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 169
+Apr 15, 2018 11:06:24 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 170
+Apr 15, 2018 11:06:25 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 171
+Apr 15, 2018 11:06:25 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 172
+Apr 15, 2018 11:06:26 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 173
+Apr 15, 2018 11:06:26 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 174
+Apr 15, 2018 11:06:27 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 175
+Apr 15, 2018 11:06:27 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 176
+Apr 15, 2018 11:06:28 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 177
+Apr 15, 2018 11:06:28 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 178
+Apr 15, 2018 11:06:28 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 179
+Apr 15, 2018 11:06:29 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 180
+Apr 15, 2018 11:06:29 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 181
+Apr 15, 2018 11:06:30 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 182
+Apr 15, 2018 11:06:30 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 183
+Apr 15, 2018 11:06:31 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 184
+Apr 15, 2018 11:06:31 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 185
+Apr 15, 2018 11:06:32 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 186
+Apr 15, 2018 11:06:32 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 187
+Apr 15, 2018 11:06:33 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 188
+Apr 15, 2018 11:06:33 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2274.0821473896067
+Apr 15, 2018 11:06:33 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 189
+Apr 15, 2018 11:06:34 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 190
+Apr 15, 2018 11:06:34 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 191
+Apr 15, 2018 11:06:35 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 192
+Apr 15, 2018 11:06:35 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 193
+Apr 15, 2018 11:06:36 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 194
+Apr 15, 2018 11:06:36 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 195
+Apr 15, 2018 11:06:36 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 196
+Apr 15, 2018 11:06:37 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 197
+Apr 15, 2018 11:06:37 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2497.637045556992
+Apr 15, 2018 11:06:37 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 198
+Apr 15, 2018 11:06:37 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2253.2392764748165
+Apr 15, 2018 11:06:38 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 199
+Apr 15, 2018 11:06:38 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 200
+Apr 15, 2018 11:06:39 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 201
+Apr 15, 2018 11:06:39 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 202
+Apr 15, 2018 11:06:40 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 203
+Apr 15, 2018 11:06:40 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 204
+Apr 15, 2018 11:06:41 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 205
+Apr 15, 2018 11:06:41 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 206
+Apr 15, 2018 11:06:42 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 207
+Apr 15, 2018 11:06:42 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 208
+Apr 15, 2018 11:06:42 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2617.667841108404
+Apr 15, 2018 11:06:43 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 209
+Apr 15, 2018 11:06:43 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 210
+Apr 15, 2018 11:06:44 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 211
+Apr 15, 2018 11:06:44 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 212
+Apr 15, 2018 11:06:45 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 213
+Apr 15, 2018 11:06:45 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 214
+Apr 15, 2018 11:06:45 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 215
+Apr 15, 2018 11:06:46 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 216
+Apr 15, 2018 11:06:46 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 217
+Apr 15, 2018 11:06:47 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 218
+Apr 15, 2018 11:06:47 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 219
+Apr 15, 2018 11:06:48 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 220
+Apr 15, 2018 11:06:48 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 221
+Apr 15, 2018 11:06:48 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2820.907096142946
+Apr 15, 2018 11:06:49 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 222
+Apr 15, 2018 11:06:49 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 223
+Apr 15, 2018 11:06:50 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 224
+Apr 15, 2018 11:06:50 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 225
+Apr 15, 2018 11:06:51 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 226
+Apr 15, 2018 11:06:51 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 227
+Apr 15, 2018 11:06:52 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 228
+Apr 15, 2018 11:06:52 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2164.5362753872696
+Apr 15, 2018 11:06:52 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 229
+Apr 15, 2018 11:06:53 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 230
+Apr 15, 2018 11:06:53 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 231
+Apr 15, 2018 11:06:54 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 232
+Apr 15, 2018 11:06:54 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 233
+Apr 15, 2018 11:06:54 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 234
+Apr 15, 2018 11:06:55 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 235
+Apr 15, 2018 11:06:55 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2277.6936448499996
+Apr 15, 2018 11:06:55 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 236
+Apr 15, 2018 11:06:56 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 237
+Apr 15, 2018 11:06:56 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 238
+Apr 15, 2018 11:06:57 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 239
+Apr 15, 2018 11:06:57 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 240
+Apr 15, 2018 11:06:58 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 241
+Apr 15, 2018 11:06:58 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 242
+Apr 15, 2018 11:06:59 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 243
+Apr 15, 2018 11:06:59 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2194.337737552148
+Apr 15, 2018 11:06:59 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 244
+Apr 15, 2018 11:07:00 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 245
+Apr 15, 2018 11:07:00 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 246
+Apr 15, 2018 11:07:01 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 247
+Apr 15, 2018 11:07:01 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2604.9488512139224
+Apr 15, 2018 11:07:01 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 248
+Apr 15, 2018 11:07:02 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 249
+Apr 15, 2018 11:07:02 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 250
+Apr 15, 2018 11:07:02 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 251
+Apr 15, 2018 11:07:03 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 252
+Apr 15, 2018 11:07:03 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 253
+Apr 15, 2018 11:07:04 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 254
+Apr 15, 2018 11:07:04 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 255
+Apr 15, 2018 11:07:05 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 256
+Apr 15, 2018 11:07:05 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 257
+Apr 15, 2018 11:07:06 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 258
+Apr 15, 2018 11:07:06 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 259
+Apr 15, 2018 11:07:07 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 260
+Apr 15, 2018 11:07:07 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 261
+Apr 15, 2018 11:07:08 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 262
+Apr 15, 2018 11:07:08 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 263
+Apr 15, 2018 11:07:09 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 264
+Apr 15, 2018 11:07:09 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 265
+Apr 15, 2018 11:07:10 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 266
+Apr 15, 2018 11:07:10 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 267
+Apr 15, 2018 11:07:11 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 268
+Apr 15, 2018 11:07:11 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 269
+Apr 15, 2018 11:07:12 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 270
+Apr 15, 2018 11:07:12 PM GAKnapsack.Knapsack run
+INFO: maxFit until 270: 3853.9420525903665
+Apr 15, 2018 11:07:12 PM GAKnapsack.Knapsack run
+INFO: maxFit weight until 270: 3203.0557671265915
+Apr 15, 2018 11:07:12 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 271
+Apr 15, 2018 11:07:12 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 272
+Apr 15, 2018 11:07:13 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 273
+Apr 15, 2018 11:07:13 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 274
+Apr 15, 2018 11:07:14 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 275
+Apr 15, 2018 11:07:14 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 276
+Apr 15, 2018 11:07:15 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 277
+Apr 15, 2018 11:07:15 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 278
+Apr 15, 2018 11:07:16 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 279
+Apr 15, 2018 11:07:16 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 280
+Apr 15, 2018 11:07:17 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 281
+Apr 15, 2018 11:07:17 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 282
+Apr 15, 2018 11:07:18 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 283
+Apr 15, 2018 11:07:18 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 284
+Apr 15, 2018 11:07:19 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 285
+Apr 15, 2018 11:07:19 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 286
+Apr 15, 2018 11:07:20 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 287
+Apr 15, 2018 11:07:20 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 288
+Apr 15, 2018 11:07:21 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 289
+Apr 15, 2018 11:07:21 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 290
+Apr 15, 2018 11:07:22 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 291
+Apr 15, 2018 11:07:22 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 292
+Apr 15, 2018 11:07:23 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 293
+Apr 15, 2018 11:07:23 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 294
+Apr 15, 2018 11:07:24 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 295
+Apr 15, 2018 11:07:24 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 296
+Apr 15, 2018 11:07:24 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2139.156607356978
+Apr 15, 2018 11:07:24 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 297
+Apr 15, 2018 11:07:25 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 298
+Apr 15, 2018 11:07:25 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 299
+Apr 15, 2018 11:07:26 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 300
+Apr 15, 2018 11:07:26 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 301
+Apr 15, 2018 11:07:27 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 302
+Apr 15, 2018 11:07:27 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 303
+Apr 15, 2018 11:07:28 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 304
+Apr 15, 2018 11:07:28 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 305
+Apr 15, 2018 11:07:29 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 306
+Apr 15, 2018 11:07:29 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 307
+Apr 15, 2018 11:07:30 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 308
+Apr 15, 2018 11:07:30 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 309
+Apr 15, 2018 11:07:31 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 310
+Apr 15, 2018 11:07:31 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2239.010443620691
+Apr 15, 2018 11:07:31 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 311
+Apr 15, 2018 11:07:32 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 312
+Apr 15, 2018 11:07:32 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 313
+Apr 15, 2018 11:07:33 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 314
+Apr 15, 2018 11:07:33 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 315
+Apr 15, 2018 11:07:34 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 316
+Apr 15, 2018 11:07:34 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 317
+Apr 15, 2018 11:07:34 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 318
+Apr 15, 2018 11:07:35 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 319
+Apr 15, 2018 11:07:35 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 320
+Apr 15, 2018 11:07:36 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 321
+Apr 15, 2018 11:07:36 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 322
+Apr 15, 2018 11:07:37 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 323
+Apr 15, 2018 11:07:37 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 324
+Apr 15, 2018 11:07:38 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 325
+Apr 15, 2018 11:07:38 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 326
+Apr 15, 2018 11:07:39 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 327
+Apr 15, 2018 11:07:39 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 328
+Apr 15, 2018 11:07:40 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 329
+Apr 15, 2018 11:07:40 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 330
+Apr 15, 2018 11:07:41 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 331
+Apr 15, 2018 11:07:41 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 332
+Apr 15, 2018 11:07:42 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 333
+Apr 15, 2018 11:07:42 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 334
+Apr 15, 2018 11:07:43 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 335
+Apr 15, 2018 11:07:43 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 336
+Apr 15, 2018 11:07:44 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 337
+Apr 15, 2018 11:07:44 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 338
+Apr 15, 2018 11:07:45 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 339
+Apr 15, 2018 11:07:45 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 340
+Apr 15, 2018 11:07:46 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 341
+Apr 15, 2018 11:07:46 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 342
+Apr 15, 2018 11:07:47 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 343
+Apr 15, 2018 11:07:47 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 344
+Apr 15, 2018 11:07:48 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 345
+Apr 15, 2018 11:07:48 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 346
+Apr 15, 2018 11:07:49 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 347
+Apr 15, 2018 11:07:49 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 348
+Apr 15, 2018 11:07:49 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 349
+Apr 15, 2018 11:07:50 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 350
+Apr 15, 2018 11:07:50 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2313.550818797831
+Apr 15, 2018 11:07:50 PM GAKnapsack.Knapsack run
+INFO: maxFit until 350: 3902.803034366157
+Apr 15, 2018 11:07:50 PM GAKnapsack.Knapsack run
+INFO: maxFit weight until 350: 3420.5567650597754
+Apr 15, 2018 11:07:50 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 351
+Apr 15, 2018 11:07:51 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 352
+Apr 15, 2018 11:07:51 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 353
+Apr 15, 2018 11:07:52 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 354
+Apr 15, 2018 11:07:52 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 355
+Apr 15, 2018 11:07:53 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 356
+Apr 15, 2018 11:07:53 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 357
+Apr 15, 2018 11:07:54 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 358
+Apr 15, 2018 11:07:54 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 359
+Apr 15, 2018 11:07:55 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 360
+Apr 15, 2018 11:07:55 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 361
+Apr 15, 2018 11:07:55 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2421.9632197068054
+Apr 15, 2018 11:07:56 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 362
+Apr 15, 2018 11:07:56 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2396.934710738787
+Apr 15, 2018 11:07:56 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 363
+Apr 15, 2018 11:07:57 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 364
+Apr 15, 2018 11:07:57 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 365
+Apr 15, 2018 11:07:58 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 366
+Apr 15, 2018 11:07:58 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2050.939181708172
+Apr 15, 2018 11:07:58 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 367
+Apr 15, 2018 11:07:58 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 368
+Apr 15, 2018 11:07:59 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 369
+Apr 15, 2018 11:07:59 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 370
+Apr 15, 2018 11:08:00 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 371
+Apr 15, 2018 11:08:00 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 372
+Apr 15, 2018 11:08:01 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 373
+Apr 15, 2018 11:08:01 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 374
+Apr 15, 2018 11:08:02 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 375
+Apr 15, 2018 11:08:02 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 376
+Apr 15, 2018 11:08:03 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 377
+Apr 15, 2018 11:08:03 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 378
+Apr 15, 2018 11:08:04 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 379
+Apr 15, 2018 11:08:04 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 380
+Apr 15, 2018 11:08:05 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 381
+Apr 15, 2018 11:08:05 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 382
+Apr 15, 2018 11:08:06 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 383
+Apr 15, 2018 11:08:06 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 384
+Apr 15, 2018 11:08:06 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 385
+Apr 15, 2018 11:08:07 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 386
+Apr 15, 2018 11:08:07 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 387
+Apr 15, 2018 11:08:08 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 388
+Apr 15, 2018 11:08:08 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2483.7229988094496
+Apr 15, 2018 11:08:08 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 389
+Apr 15, 2018 11:08:09 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 390
+Apr 15, 2018 11:08:09 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 391
+Apr 15, 2018 11:08:10 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 392
+Apr 15, 2018 11:08:10 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 393
+Apr 15, 2018 11:08:11 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 394
+Apr 15, 2018 11:08:11 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 395
+Apr 15, 2018 11:08:11 PM GAKnapsack.GA mutation
+INFO: mutateWith weight: 2639.6316465242508
+Apr 15, 2018 11:08:12 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 396
+Apr 15, 2018 11:08:12 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 397
+Apr 15, 2018 11:08:13 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 398
+Apr 15, 2018 11:08:13 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 399
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Start Evolve Generation = 400
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Best Gene Set with value: 
+3902.803034366157
+Best value with ind: 3902.803034366157
+1 1
+2 0
+3 0
+4 0
+5 0
+6 1
+7 1
+8 0
+9 1
+10 1
+11 0
+12 1
+13 0
+14 1
+15 1
+16 1
+17 1
+18 0
+19 1
+20 1
+21 1
+22 1
+23 1
+24 0
+25 1
+26 1
+27 0
+28 1
+29 1
+30 1
+31 1
+32 0
+33 1
+34 1
+35 1
+36 1
+37 0
+38 1
+39 1
+40 1
+41 1
+42 0
+43 0
+44 1
+45 1
+46 1
+47 1
+48 1
+49 0
+50 1
+51 1
+52 0
+53 1
+54 1
+55 1
+56 1
+57 1
+58 1
+59 1
+60 1
+61 1
+62 1
+63 0
+64 1
+65 0
+66 1
+67 1
+68 1
+69 0
+70 1
+71 1
+72 0
+73 1
+74 1
+75 1
+76 1
+77 1
+78 0
+79 0
+80 0
+81 1
+82 1
+83 1
+84 0
+85 1
+86 1
+87 1
+88 1
+89 1
+90 1
+91 1
+92 1
+93 0
+94 1
+95 1
+96 1
+97 0
+98 0
+99 1
+100 1
+
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1698.3525532604544
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1716.3792168980071
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1749.546852678057
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1763.3442167455974
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1784.9156894101855
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1815.085253529111
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1818.0096090475442
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1825.5973097396502
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1833.595077061888
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1834.4279684200744
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1868.312564979759
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1873.1456822653815
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1878.207560258008
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1881.9244701262255
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1895.1481948071048
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1911.3859062540764
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1912.9995502516258
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1921.2671147069016
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1925.3691222390623
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1928.4979273554077
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1930.5493215421288
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1936.8762521153376
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1942.1993857694054
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1947.130893371445
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1956.066026918839
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1969.4140408271378
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1970.586030237671
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1978.775491681592
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1987.543519582072
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1994.719704612168
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1996.8396165311199
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1999.6946867454913
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 1999.9124814145644
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2005.192466749239
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2008.620281826057
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2016.2482398304412
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2018.0207337412503
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2023.1345346137975
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2025.2585481976828
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2027.8775761741435
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2031.3047434870766
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2034.8812541065208
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2039.7178456092447
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2041.4208983982812
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2047.6754500503966
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2051.8338236701643
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2059.3845947193613
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2060.4090500878838
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2060.6342593798536
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2066.764773167939
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2072.067606721409
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2073.8177927899783
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2074.045057192906
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2075.493002925766
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2080.592547973356
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2082.7314455897113
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2083.7328776889076
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2086.2005738323396
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2086.666978875377
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2089.820696322132
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2094.915190834271
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2095.062688046888
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2097.4883104256323
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2097.9900203770662
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2098.299833001762
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2098.5399438553472
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2104.5049554042957
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2105.2704420120385
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2108.3824604823835
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2113.7642734300753
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2116.486046234911
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2117.3600668347844
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2117.398063070872
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2120.4238373199596
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2120.79293701474
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2122.38458542395
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2127.563837175572
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2132.0964556577396
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2134.568928672846
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2134.79510755163
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2140.8915194386805
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2141.665111351177
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2141.9166025002482
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2143.2058442050884
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2143.764953448261
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2144.2069905548688
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2145.6190349316457
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2146.6353546446585
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2147.274456951549
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2148.747944260941
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2149.037486591789
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2150.039779954598
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2155.731323600827
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2158.6065698661537
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2158.6877084466537
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2159.209512114646
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2160.9775697108266
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2162.193623127828
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2163.1357102648194
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2163.6120909913975
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2163.8171571922967
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2165.5882077801834
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2166.055353503543
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2167.366973171035
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2167.389338716462
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2169.916611874721
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2170.242912983101
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2176.7220458168395
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2177.4954123462003
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2178.4789555522716
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2180.3267943638843
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2180.559524896258
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2181.2439289904696
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2182.142583294963
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2186.842721803186
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2188.4383964925987
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2189.580467105953
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2191.9049640938133
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2195.306668964907
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2195.7844987170065
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2198.8042089547866
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2199.118525755595
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2200.853967862591
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2203.305488973894
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2203.3587533237614
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2205.193740127011
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2207.5407913845884
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2207.5646381678935
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2207.6828287662415
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2210.164628656947
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2211.271513478119
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2211.337035544664
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2211.582337817934
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2212.4235814505664
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2213.6805908168467
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2216.934323264565
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2216.940089301786
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2217.1313561757124
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2217.836713087456
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2222.7369796432617
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2223.7778610319724
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2224.3495713860534
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2224.5126037285945
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2225.253287717498
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2225.8624332368363
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2226.9867237289013
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2227.5667631934334
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2228.452369795404
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2228.963991572323
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2230.512451977244
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2233.3724221038788
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2233.3834861133114
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2234.209750327129
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2234.4045567567287
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2236.4693592876915
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2236.5392191435253
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2237.605810711681
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2237.609641000305
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2238.0982554657326
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2241.3262784183626
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2242.4429889210505
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2243.4684153448993
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2245.076981009153
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2246.580659199057
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2252.926371901759
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2253.034535385345
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2256.6709978942035
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2257.0353698088143
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2265.2993700245147
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2265.3695868207787
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2269.3860333511584
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2272.0378757443673
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2272.3084228247462
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2273.8495469085083
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2274.390534894713
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2276.2141647693024
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2276.7068552953992
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2277.0950038945507
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2279.9426702553087
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2281.546569386156
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2281.7936895224884
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2281.8691997679202
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2284.2102161508665
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2284.227954023692
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2290.5083187548667
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2290.579270335196
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2290.7648030985156
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2291.6222132952466
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2291.695741534721
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2291.9558278445766
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2292.0003667262217
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2292.3604581671957
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2293.539885222182
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2296.1814724510527
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2296.5177260443343
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2297.9804398133388
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2299.6874901027936
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2300.268414938712
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2301.1282906707647
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2302.6690925058133
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2303.917692984718
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2304.5693327639624
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2304.744055987447
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2306.215326578149
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2307.0937441107435
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2309.102278380908
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2311.1599628156114
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2311.7525768253277
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2312.513148603696
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2314.5958782667535
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2317.9734434757133
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2320.206478122442
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2320.4219152261376
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2324.710512406812
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2326.673914621108
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2330.0576360944083
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2330.467862578271
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2331.3128384247393
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2332.780525021062
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2335.425206044764
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2336.525736219842
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2336.772885592687
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2336.944436218011
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2337.9178340286544
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2339.944307126597
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2340.5995568756907
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2341.6334542564073
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2341.9447802772424
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2344.686568946161
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2344.93559588045
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2345.4004171058814
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2346.0108795637075
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2346.0840459478122
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2346.1613871423706
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2348.0084945559706
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2349.822442685004
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2350.0800104569944
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2350.6586333759433
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2351.3101532605187
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2351.639022190147
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2352.4756390669972
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2352.7349813453
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2353.405323098106
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2354.1129119234834
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2354.7737251953845
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2355.355801761698
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2355.8740592015083
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2357.5196930560546
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2357.883505504121
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2357.990444287903
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2358.35901095854
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2361.9572113089753
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2363.7880942598786
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2364.076026378827
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2364.5649130205948
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2364.5790975843856
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2365.1641677021153
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2365.7579686809413
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2366.4222394505964
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2367.3189909792877
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2367.8833564071606
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2369.888284414669
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2370.326406316289
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2370.764707646945
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2370.846760650528
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2371.6835789863017
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2371.72957322201
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2373.8579894317045
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2374.186066085711
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2374.298508445897
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2374.83016629124
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2375.544706346115
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2375.7987488335934
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2376.3358226600667
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2376.7135471749607
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2378.492659139775
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2378.7499890561035
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2379.8515699649074
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2380.3522707562192
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2381.636637985371
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2381.647566549462
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2382.3159381054506
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2382.5459448237316
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2385.0325453704677
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2385.2275252920836
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2385.5397176108772
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2386.3795764837046
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2387.085763894143
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2387.217444161282
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2387.3337751888735
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2388.3247296616314
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2389.8297453742875
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2390.3312618617056
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2390.451195986742
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2390.69667639987
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2391.696681488415
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2392.2521682910105
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2392.7405406806197
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2394.0491452566425
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2394.0505163725315
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2396.3842730245633
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2396.459797985385
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2396.9762192945454
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2397.2500528200335
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2397.6928398043437
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2397.773415160849
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2398.0924605226314
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2398.4538909081
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2398.723931461954
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2398.733762635031
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2401.607300369489
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2404.00225852699
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2407.235098022429
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2407.644569218436
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2407.6478872615085
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2407.847554059203
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2409.4877567580475
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2411.632766861979
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2413.424637930154
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2413.7031712864764
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2414.1195333930605
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2414.8075549353125
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2415.2812537283075
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2417.097652495876
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2418.121210142936
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2420.7243873882203
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2421.18871352692
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2421.643241336784
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2421.7713810182913
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2422.287533160701
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2422.525553840975
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2423.3182347983557
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2423.391098290152
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2423.58727791715
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2426.253010854943
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2426.9947846746036
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2427.7604628218637
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2427.772782355366
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2427.922935909828
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2429.6049552484774
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2430.0771263211564
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2431.6681762915687
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2432.260277365778
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2434.377370397425
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2434.4897399105016
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2435.6867486875576
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2436.211645210281
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2436.3418234140095
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2436.600675197485
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2436.94673132349
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2438.8677465960013
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2438.9797590100534
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2439.7718686420562
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2440.8246995035893
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2440.867434644285
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2441.405313295401
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2441.826959470022
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2445.6151603650696
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2447.5271596879306
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2447.5499475913743
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2449.2031785206805
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2449.213462703406
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2449.4230178340235
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2450.182292694609
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2450.5489089453154
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2451.71618560773
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2453.4355797134185
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2454.359068483615
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2454.854335380596
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2455.1193386206355
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2455.6368762444695
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2455.8150784440845
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2456.6867414299254
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2457.5610277155206
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2457.6577745927684
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2458.475437128156
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2458.94439474042
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2459.2379405676725
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2459.4253107215272
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2459.712071108594
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2459.989366891471
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2460.0148127707153
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2461.0527871456684
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2461.5915619241982
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2461.7584545901323
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2462.3630147112567
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2462.5636099604612
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2462.783282091052
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2463.535555380428
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2464.0901415746935
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2464.2688204702777
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2464.571866720946
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2465.0151394993595
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2465.0534123656944
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2465.4554511208307
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2465.7509661760855
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2466.0968600445303
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2467.2847241861555
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2468.700394990243
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2468.99523516817
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2469.2511557092225
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2470.1333946772756
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2470.5176642094475
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2470.5759388306187
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2470.991455429193
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2472.3071967098654
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2472.3092951599015
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2473.1273985683592
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2474.5026034621374
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2475.058032463669
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2475.6992588786593
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2475.812267282054
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2476.30647086142
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2476.8760093273468
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2476.977567070985
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2477.2365223646484
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2477.793080032221
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2478.3114836258837
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2481.251557671444
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2482.910588542692
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2483.6353678191713
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2484.4171202959715
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2484.437341450675
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2485.420203343998
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2485.9439154806723
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2486.285339283906
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2486.5169276588836
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2487.1359714859846
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2489.6868421282466
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2490.8565782209766
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2491.217816432581
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2491.327148435074
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2491.402975773157
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2492.145254884277
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2492.4184910374106
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2493.59876262712
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2494.720572421085
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2494.7716519189194
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2494.9740446248647
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2495.299688372653
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2495.7499739723153
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2496.76016046641
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2496.9553419256144
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2499.7124297273563
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2500.439049467936
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2500.5248033300977
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2500.5923539115365
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2503.6156186679736
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2503.789604498267
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2503.9205444211393
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2504.9287832310533
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2505.7419583175106
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2505.959739858973
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2506.047415506632
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2508.7376313267528
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2508.8221610810456
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2509.2906699811792
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2511.1254852391876
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2512.5161811662456
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2512.7372869580504
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2513.0745220074937
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2513.1659012119394
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2515.3233876847626
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2515.560264318663
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2516.146856935579
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2517.249884616237
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2518.4416195550825
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2520.116321200998
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2520.188399805697
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2521.3542744434408
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2522.332171283434
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2523.1404869393527
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2523.712353699138
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2523.8593614820506
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2525.2697708432506
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2525.5770575748484
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2525.8314555559473
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2528.922383701236
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2529.075874049806
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2529.5017582005003
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2531.7437822927022
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2531.884191655617
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2532.5335223991688
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2534.1582148788293
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2534.5215588491333
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2536.9596630396823
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2536.9830287459286
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2537.065453275115
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2537.6217205855464
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2538.1293772173435
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2538.6890536650103
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2539.2331872381615
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2541.8729106179685
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2543.3300634714674
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2545.2668244018273
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2545.9083721994343
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2546.3493818982433
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2547.3569762066313
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2548.598126099249
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2549.4253858121583
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2549.680608220463
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2550.9135736617286
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2551.200398096449
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2551.545753915833
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2551.580710682348
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2551.864663082967
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2552.4126370712997
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2552.6831080770353
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2553.6196159891138
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2554.3033891959167
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2554.705257480045
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2555.4190330450792
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2556.1145608802444
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2556.1309195752733
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2556.645933723322
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2556.7742934033504
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2557.6890931810085
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2558.3843491974335
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2559.3193476921347
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2559.4462594006577
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2560.309655813669
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2560.372503969164
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2562.0209142449717
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2563.200248831617
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2563.3503724873444
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2563.3917473438432
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2563.6193079165055
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2564.4299809891363
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2566.98092907508
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2569.3090924361836
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2570.545296594066
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2573.2544159935724
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2573.3746087239115
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2574.574529627065
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2574.874445021096
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2575.431713600611
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2575.446604394296
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2575.6010413109507
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2575.764504165352
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2575.8103537577504
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2577.287062112875
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2577.49303217488
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2577.617785867915
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2578.080053149669
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2578.312626882315
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2578.3345680403163
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2578.893087943062
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2579.241814369002
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2579.616577487924
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2579.880387113619
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2580.7947721377213
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2582.004122385852
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2583.100464622423
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2584.628834749162
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2587.1562938736597
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2587.901824525823
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2588.8288999597853
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2589.129165341567
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2591.188799265095
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2591.2815634655985
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2591.8111186497713
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2592.7534712183347
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2593.1332438265063
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2594.3421352189016
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2594.5738220896087
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2595.0119794585366
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2595.2113962968137
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2596.0240367418187
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2597.811765565956
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2597.9624241385222
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2598.29584839129
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2598.5304485310608
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2599.550350571789
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2600.3690315699046
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2601.3231183945363
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2601.3718408030477
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2601.5372071549004
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2602.0397314782654
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2603.2763778286017
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2604.088162435112
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2604.5969699319216
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2605.1344451021578
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2605.37444028829
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2606.31522537794
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2607.044005891725
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2610.2118377625707
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2611.2561428599392
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2611.633020493576
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2611.707725645198
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2611.8293163587227
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2611.905238688602
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2612.0772509141993
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2612.7277424761123
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2614.928221892108
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2615.121736995044
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2615.431032950193
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2615.843954875365
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2616.6811554092856
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2616.974352752018
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2617.0895201504686
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2617.5366191809717
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2617.7093542096904
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2617.985420780615
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2618.867903621301
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2619.5089845076795
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2620.5197087542333
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2621.5931581460472
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2621.979108362885
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2623.3715284230198
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2623.6246440942314
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2625.3202043373053
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2625.380200101334
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2626.7913407173946
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2626.995308752333
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2629.300993348603
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2629.7843756272714
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2630.283390773392
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2630.632557128107
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2630.653852515706
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2630.770512935174
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2630.8996289340034
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2631.8626261683326
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2632.9631339403186
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2633.7004847503563
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2634.630949667499
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2636.0191154047
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2636.53767781492
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2636.7072486260704
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2637.6062655427704
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2637.730650472378
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2638.516486534571
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2639.019701106554
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2640.1435880938534
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2640.377702904744
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2640.4908914134844
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2640.6993300144695
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2641.4248142777215
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2641.4692936880133
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2641.8616951055183
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2642.060683394358
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2642.302666286261
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2642.721347357277
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2643.8522507457087
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2644.8010004732546
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2645.674817232775
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2648.7902734236277
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2649.4893129159436
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2649.7143836295954
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2650.36281985423
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2651.9336010059383
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2653.748959949309
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2653.76858703956
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2653.913713706264
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2657.3096162681377
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2658.2954414486144
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2658.7980487799023
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2659.1722694089135
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2660.5476896079017
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2661.253160165907
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2661.4596622551717
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2661.838911527492
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2662.1710378649373
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2662.6228743758747
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2663.612828471983
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2664.3816305189953
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2664.461186343979
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2665.0687196476956
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2665.3420024054553
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2666.066938828901
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2666.0752970139174
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2666.333994890918
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2666.93981718457
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2667.9436577402703
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2670.520163782064
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2671.8374638375276
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2671.911569053225
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2672.0855371428797
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2672.2743762868113
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2672.803366934687
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2673.473162577345
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2673.8576200875345
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2674.48404935065
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2674.6194991867287
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2675.125608723029
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2676.0494253359725
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2678.107799413397
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2678.3147827601265
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2678.674027320567
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2679.2240346735603
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2679.771216124575
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2681.6254668586985
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2681.958387878584
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2682.1537297261507
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2682.593511282155
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2684.727687393545
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2685.403242619245
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2687.703348215328
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2687.772143678753
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2688.021771542791
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2688.385416145212
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2689.181687261349
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2689.9449316192054
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2691.3855552709283
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2691.525602498603
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2693.8119689236682
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2696.6175115346623
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2697.541352692873
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2698.1681176212646
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2699.2846836198464
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2699.8757541539453
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2700.15466999483
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2701.9845810318666
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2702.2036401143437
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2702.3664356966246
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2703.2196733431306
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2703.451812966816
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2705.113376000592
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2705.795846123246
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2706.2158232983606
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2706.826909207856
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2707.001925608893
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2708.816517647854
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2708.862683187466
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2709.4534186336678
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2709.579226680878
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2710.786514476518
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2714.0195576855012
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2714.691094555375
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2714.9160971002293
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2715.0136712525123
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2715.108166332835
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2716.0480931156926
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2716.1158669662645
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2717.7288403491825
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2719.754029288978
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2719.8671467004638
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2720.20139022195
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2720.633177772163
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2721.735364036173
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2721.8386011636276
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2722.397337322888
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2722.79235185678
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2723.9126539098274
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2724.044573579576
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2724.2825925739103
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2725.679044805182
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2727.0380810857555
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2728.3605212331404
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2728.3720061194585
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2728.6369188829644
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2729.116049674084
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2730.1335593916174
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2730.7511546084475
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2734.8006439805563
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2735.1291206289434
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2735.491129231229
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2736.5585827453688
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2736.631254019913
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2738.100076667945
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2738.4500438106124
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2738.6560070431533
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2739.3594390348885
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2740.694051034715
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2740.6989011217925
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2740.855710630024
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2742.0673688415077
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2742.4991846565304
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2742.7102960046454
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2744.1302627192085
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2747.7479810366676
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2748.8160174370773
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2752.8167590297035
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2756.305651348484
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2756.6950789093485
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2758.3472158839595
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2759.2645145876318
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2760.362663572928
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2760.928432551697
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2762.547622234014
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2762.966240805136
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2764.980237297312
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2765.247816617364
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2766.227270587321
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2766.272052866815
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2766.6306690379347
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2766.8360025895367
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2770.0774566368427
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2770.592895239968
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2772.8097325942617
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2774.2649596990404
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2774.9783800875016
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2775.2032869863874
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2775.341284966263
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2778.4342176846076
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2778.8751385690034
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2779.3126171772
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2779.8688919962187
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2781.6481563410375
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2782.4308775852796
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2782.880522995051
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2784.045130542505
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2784.0623782597268
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2784.1020331211585
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2784.492959023391
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2785.516680386458
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2786.748678790447
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2789.649617027594
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2789.8662754289
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2791.046941531047
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2791.772214468815
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2792.4822598896867
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2792.497186871388
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2793.0643378939235
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2793.754265409729
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2793.809037345926
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2795.0086943135875
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2797.632618495695
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2798.829183891239
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2801.1495886697066
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2803.022862878987
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2805.401269037775
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2808.5947395618764
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2809.75568378614
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2809.9658676678555
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2810.2240238376367
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2811.0518708431273
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2811.0554685911025
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2811.3660683629205
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2813.5021510277343
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2813.8723256885532
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2815.6562288920113
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2816.152529922477
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2816.3807372693705
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2816.967690318947
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2817.163185667428
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2819.351750128453
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2820.1408790366327
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2820.1436015497534
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2821.277792665397
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2824.5333050922063
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2825.043716634057
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2827.5152396632175
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2827.5424348509946
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2829.039842495366
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2829.7421221578206
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2837.2291311361205
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2837.4546936755282
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2840.6941717080485
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2840.996333358929
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2841.6000136692232
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2841.849783158312
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2843.0356503623248
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2843.690944832128
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2845.332287264976
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2845.8291356892432
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2846.502340515819
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2846.686341349536
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2850.1457919366608
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2851.6475667187565
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2851.7563828216316
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2854.230873219032
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2854.2429862929926
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2854.513714317949
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2855.7438098706834
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2855.900806463135
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2859.16989786813
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2860.3981443944417
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2861.24854921403
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2861.4413470712034
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2861.8224565907926
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2861.951346954458
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2863.3481523138057
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2863.9781092161998
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2870.185669080349
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2871.016849579399
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2872.4018250825175
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2872.9209665609205
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2874.494285034948
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2875.818079691319
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2876.236027174149
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2879.4900998266958
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2881.4947153183775
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2882.309505493917
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2883.1515185531553
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2884.1262143167282
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2885.5253574889502
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2888.030553779842
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2888.45801114562
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2889.7873096462986
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2889.7882165677343
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2890.57070275772
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2891.256345810168
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2897.778150004941
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2897.808533680944
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2899.7764521983554
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2905.5255263081876
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2906.1204710655966
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2906.280068110945
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2908.7913117333505
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2910.671944894791
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2911.2182528098233
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2914.8609844005273
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2916.251172608986
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2918.5844128277795
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2924.1069904043406
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2924.748237236987
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2924.939725765168
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2925.9155405953134
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2930.592688394759
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2932.0284751192444
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2933.325731542008
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2935.5415305688994
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2935.5467435935343
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2938.5822769670895
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2939.9173987004315
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2940.0774486143737
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2941.0159707870957
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2941.4182884965753
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2950.5154862382337
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2952.078119636272
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2952.354748500276
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2953.047167622198
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2954.612603833309
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2960.4529182758415
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2960.522336998389
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2965.112219237247
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2966.0837759019146
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2966.723610144211
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2967.14197135314
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2974.43790240931
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2975.9748618749586
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2976.749728674396
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2978.2839746362515
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2980.866636374252
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2985.3615776166803
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2987.130587748585
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2988.310706469389
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2989.260877223298
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2989.9988414511445
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2990.1316020637178
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2991.1930925474585
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2994.074964531202
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2994.490219406943
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2995.7363464587643
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2997.29461083579
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 2998.961620011141
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3006.66566302236
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3014.0720494596426
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3017.220250153614
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3018.4082206699964
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3022.2012565766486
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3026.5149233367215
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3029.3763778986763
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3033.015298221397
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3035.9801704535353
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3040.938490530515
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3051.1775062473225
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3051.519066544907
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3052.2346182913425
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3058.243371990643
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3058.523186278147
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3059.9850350476872
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3067.1283157569283
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3071.0647777360277
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3074.147363481156
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3075.6730700740454
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3076.6323784657093
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3078.7106008326828
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3086.2478933901475
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3088.1328960333276
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3089.751178568382
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3092.618174585216
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3093.2904943368003
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3097.027141823694
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3099.502164394186
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3102.6373303420733
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3104.4899405131296
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3110.0378225301083
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3118.0756937347055
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3119.280035701764
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3123.4899237811965
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3126.5055589224703
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3130.298264234671
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3131.7137555267877
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3141.426417524789
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3144.776668145389
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3153.548707660162
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3157.619308092245
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3161.346474082858
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3163.770195373552
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3168.8302154605703
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3170.314297341576
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3173.1199888959177
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3179.36236661118
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3187.7846532352746
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3199.1261128162178
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3206.252932575982
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3217.678803271974
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3227.7614565621875
+Apr 15, 2018 11:08:14 PM GAKnapsack.Knapsack run
+INFO: Individual: 3373.9196243496913
+BUILD SUCCESSFUL (total time: 3 minutes 10 seconds)
